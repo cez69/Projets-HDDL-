@@ -1,0 +1,581 @@
+{
+    "all_results": [
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 3009086.8022460938
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2947322.7817382812
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 3022972.9204101562
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3076580.7705078125
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 3064893.1279296875
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 3070462.466796875
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3126131.11328125
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3306617.0107421875
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3139557.8095703125
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 2974304.6381835938
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2835168.0180664062
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2838006.9248046875
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3003874.8544921875
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 2898773.25390625
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 2927883.7094726562
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3060415.724609375
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3020044.265625
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3010137.8701171875
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 3029422.1059570312
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2902735.3486328125
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2903973.3212890625
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3063578.2001953125
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 2985277.3159179688
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 2976422.37890625
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3117788.5224609375
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3063653.5830078125
+        },
+        {
+            "batch_size": 64,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3070922.23046875
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 3003537.736328125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2940724.177734375
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2927797.0625
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3045541.033203125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 3046691.337890625
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 3085591.990234375
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3287412.814453125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3123210.9453125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3042174.470703125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 2990508.64453125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2846818.6875
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2846926.25
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3015639.705078125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 2903977.33984375
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 2900508.431640625
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3065947.572265625
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3004995.375
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 2988885.267578125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 3055445.720703125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2953043.802734375
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2958874.76953125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3084702.474609375
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 3022982.48046875
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 3032778.748046875
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3141944.814453125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3102643.80078125
+        },
+        {
+            "batch_size": 128,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3119556.380859375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 3011999.921875
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2957199.265625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2944679.3828125
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3109248.0625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 3282858.6484375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 3058437.015625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3102692.2421875
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3692700.2109375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.01,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3141887.171875
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 2993898.87109375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2872318.73828125
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 2853579.61328125
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3032043.0390625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 2967872.4921875
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 2926238.4609375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3086139.5546875
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3081113.3515625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.001,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3025673.9765625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 2,
+            "val_loss": 3095800.0859375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 3015238.86328125
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 0.5,
+            "latent_dim": 10,
+            "val_loss": 3032470.8046875
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 2,
+            "val_loss": 3130107.0859375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 5,
+            "val_loss": 3085723.4140625
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 1,
+            "latent_dim": 10,
+            "val_loss": 3099877.33203125
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 2,
+            "val_loss": 3208454.5859375
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 5,
+            "val_loss": 3165885.7578125
+        },
+        {
+            "batch_size": 256,
+            "lr": 0.0001,
+            "beta": 2,
+            "latent_dim": 10,
+            "val_loss": 3191700.296875
+        }
+    ],
+    "best_model": {
+        "hyperparams": {
+            "batch_size": 64,
+            "lr": 0.001,
+            "beta": 0.5,
+            "latent_dim": 5,
+            "val_loss": 2835168.0180664062
+        },
+        "val_loss": 2835168.0180664062
+    }
+}
